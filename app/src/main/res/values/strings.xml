@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Android Flavours</string>
+    <string name="label_name">General Information</string>
+    <string name="info_1_0">Information Not Availible</string>
+    <string name="info_1_1">Information Not Availible</string>
+    <string name="info_1_5">"Cupcake was the first major overhaul of the Android OS.  The Android 1.5 SDK was released in April 2009 and brought along plenty of UI changes, the biggest probably being support for widgets and folders on the home screens. \n"  
+                "\n"  
+                "There were plenty of changes behind the scenes, too.  Cupcake brought features like improved Bluetooth support, camcorder functions, and new upload services like YouTube and Picasa.\n"  
+                "\n"  
+                "Android 1.5 ushered in the era of the modern Android phone, and the explosion of devices included favorites like the HTC Hero and Eris, the Samsung Moment, and the Motorola Cliq."
+</string>
+    <string name="info_1_6">"Donut, released in September 2009, expanded on the features that came with Android 1.5. While not very rich in the eye-candy department, Android 1.6 made some major improvements behind the scenes, and provided the framework base for the amazing features to come. To the end user, the two biggest changes would have to be the improvements to the Android Market, and universal search.\n"  
+                "\n"  
+                "Behind the screen, Donut brought support for higher-resolution touchscreens, much improved camera and gallery support, and perhaps most importantly, native support for Verizon and Sprint phones. Without the technology in Android 1.6, there would be no Motorola Droid X or HTC EVO 4G — two major phones for those carriers.\n"  
+                "\n"  
+                "The devices released with Android 1.6 cover a wide range of taste and features, including the Motorola Devour, the Garminphone, and the Sony Ericsson Xperia X10."
+  </string>
+    <string name="info_2_0_2_1">"Eclair was a pretty major step up over its predecessors. Introduced in late 2009, Android 2.0 first appeared on the Motorola Droid, bringing improvements in the browser, Google Maps, and a new user interface. Google Maps Navigation also was born in Android 2.0, quickly bringing the platform on par with other stand-along GPS navigation systems.\n"  
+                "\n"  
+                "Android 2.0 quickly gave way to 2.0.1, which the Droid received in December 2009, mainly bringing bugfixes. And to date, the Droid remains the phone phone to have explicitly received Android 2.0.1.\n"  
+                "\n"  
+                "The now-defunct Google Nexus One was the first device to receive Android 2.1 when it launched in January 2010, bringing a souped-up UI with cool 3D-style graphics. From there, the rollout of Android 2.1 has been relatively slow and painful. Manufacturers skipped Android 2.0 in favor of the latest version but needed time to tweak their customizations, such as Motorola's Motoblur.\n"  
+                "\n"  
+                "HTC's Desire and Legend phones launched with Android 2.1 later in the year, touting a new and improved Sense user interface."
+</string>
+    <string name="info_2_2_2_2_3">"Android 2.2 Froyo was announced in May 2010 at the Google IO conference in San Francisco. The single largest change was the introduction of the Just-In-Time Compiler — or JIT — which significantly speeds up the phone's processing power.\n"  
+                "\n"  
+                "Along with the JIT, Android 2.2 also brings support for Adobe Flash 10.1. That means you can play your favorite Flash-based games in Android's web browser. Take that, iPhone!\n"  
+                "\n"  
+                "Froyo also brought native support for tethering, meaning you could use your Android smartphone's data connection to provide Internet (wirelessly or with a USB cable) to just about any device you want. Sadly, most carriers will strip this native support in exchange for some sort of feature they can charge for. (Can't really blame them, can you?)"
+</string>
+    <string name="info_2_3_2_3_7">"Android 2.3 Gingerbread came out of the oven in December 2010, and like Eclair had a new \"Googlephone\" to go along with — the Nexus S.  Gingerbread brings a few UI enhancements to Android, things like a more consistent feel across menus and dialogs, and a new black notification bar, but still looks and feels like the Android we're used to, with the addition of a slew of new language support.\n"  
+                "\n"  
+                "Gingerbread brings support for new technology as well.  NFC (Near Field Communication) is now supported, and SIP (Internet calling) support is now native on Android. Further optimizations for better battery life round out a nice upgrade.\n"  
+                "\n"  
+                "Behind the scenes, the fellows at Mountain View spent time with more JIT (the Just-In-Time compiler) optimizations, and made great improvements to Androids garbage collection, which should stop any stuttering and improve UI smoothness.  Round that out with new a multi-media framework for better support of sound and video files."
+</string>
+    <string name="info_3_0_3_2_6">"Android 3.0 Honeycomb came out in February 2011 with the Motorola Xoom. It's the first (and only) version of Android specifically made for tablets, and it brought a lot of new UI elements to the table. Things like a new System bar at the bottom of the screen to replace the Status bar we see on phones, and a new recent applications button are a great addition for the screen real estate offered by Android tablets.\n"  
+                "\n"  
+                "Some of the standard Google applications have also were updated for use with Honeycomb, including the Gmail app and the Talk app.  Both made great use of fragments, and the Talk app added video chat and calling support built in.  Under the hood, 3D rendering and hardware acceleration have been greatly improved.\n"  
+                "\n"  
+                "We can't talk about Honeycomb without mentioning that it also shows Google's new distribution method, where manufacturers are given the source code and license to use it only after their hardware choices have been approved by Google. This dampens third party development, as the source code is no longer available for all to download and build. And, in fact, Google never released the Honeycomb source.\n"  
+                "\n"  
+                "Improvements to Honeycomb were announced at Google IO in May 2011 as Android 3.1, and Android 3.2 followed thereafter. But Honeycomb basically is regarded as a forgotten version."
+
+</string>
+    <string name="info_4_0_4_0_4">"The follow-up to Honeycomb was announced at Google IO in May 2011 and released in December 2011. Dubbed Ice Cream Sandwich and finally designated Android 4.0, ICS brought many of the design elements of Honeycomb to smartphones, while refining the Honeycomb experience.\n"  
+                "\n"  
+                "The first device to launch with ICS was the Samsung Galaxy Nexus. The Motorola Xoom and the ASUS Transformer Prime were the first tablets to receive updates, while the Samsung Nexus S was the first smartphone to make the jump to Android 4.0."
+
+</string>
+    <string name="info_4_1_4_3_1">"Jelly Bean arrived at Google IO 2012 with the release of the ASUS Nexus 7, followed by a quick update for unlocked Galaxy Nexus phones. Later in the year, the release of the Nexus 10 and Nexus 4 updated things from 4.1 to 4.2 and on to 4.3, but the version remained Jelly Bean. The release polished the UI design started in Ice Cream Sandwich, and brought several great new features to the table. \n"  
+                "\n"  
+                "Besides the new focus on responsiveness with Project Butter, Jelly Bean brings multi-user accounts, actionable notifications, lock screen widgets, quick-settings in the notification bar, Photosphere to the \"stock\" Android camera and Google Now. \n"  
+                "\n"  
+                "Jelly Bean is hailed by many as the turning point for Android, where all the great services and customization options finally meet great design guidelines. It's certainly was very visually pleasing, and we'd argue that it was one of the nicest looking mobile operating systems available at the time."
+
+</string>
+    <string name="info_4_4_4_4_4">"Google in September 2013 announced that that fall's new version of Android would be named for their favorite confectioneries — Kit Kat bars. A couple months later we saw its release with the LG Nexus 5.\n"  
+                "\n"  
+                "KitKat brought a lighter, flatter and far more colorful look to Android, but many more changes were under the hood. These were the foundation for things like the Google Now launcher, SMS integration with Hangouts, and easier and faster use all around. \n"  
+                "\n"  
+                "Of course, Google's U.S. partner in the deal, Hershey, wasn't quiet. They promised an update that really does taste as good as it looks, and offers adjustable orientation that works perfectly in portrait or landscape."
+</string>
+    <string name="info_5_0_5_1_1">"Google released Android 5.0 Lollipop with the Nexus 6 and Nexus 9, and it ushered in a new design language and support for 64-bit devices. It's also the first time Google has provided developer beta previews of the software, so that the apps we all love can be ready when the new version drops.\n"  
+                "\n"  
+                "There were big changes under the hood as well, and a plethora of new API changes in addition to forward-facing features like a new interface. Google has updated its own Nexus 5, Nexus 4 and Nexus 7 to Lollipop, and other companies like Motorola, Samsung, HTC and LG have been relatively quick to follow.\n"  
+                "\n"  
+                "But the Lollipop update hasn't sat well with many folks out there, and even Google was plagued by performance issues both with the update and with the initial releases of Lollipop."
+
+  </string>
+    <string name="info_6_0_6_0_1">"Google released Android 6.0 Marshmallow with the Nexus 6P and the Nexus 5X. Along with some visual changes — like a new launcher and refined notification panel — we saw a couple under the hood changes and new features (as always).\n"  
+                "\n"  
+                "Android 6.0 gave us better control over permissions, allowing you to control what parts of your data apps can access, rather than approve it by simply installing the app in the first place. That's just the beginning, and features like app linking and the new Assist API allow developers to build better and more powerful apps. We all love better and more powerful apps.\n"  
+                "\n"  
+                "Google also implemented a developer preview program for Marshmallow, allowing folks with a supported Nexus phone or tablet to give things an early try."
+
+</string>
+    <string name="info_7_0_7_1_2">"Android Nougat released with the first Google Pixel in October 2016.\n"  
+                "\n"  
+                "New in this iteration is the long-awaited native support for multi-window, so apps can live side by side. Google's also added direct-reply notifications and bundled notifications. To round it all up, Nougat also fully integrated the Vulkan APIs for better games and graphics."
+
+       </string>
+    <string name="info_8_0_8_1"> "Android Oreo released with the Google Pixel 2 in October 2017.\n"  
+                "\n"  
+                "Oreo brings better visibility and audio for people who have accessibility needs, better notification tools like ambient screen, snoozing, and categories, and revamps everything behind the curtain with Project Treble. Treble is designed to make it easier for vendors like Samsung to update devices to newer versions and has made an impact."
+</string>
+    <string name="info_9_0">"2018 brought us the Pixel 3 and Android Pie.\n"  
+                "\n"  
+                "Android Pie is all about Google Assistant and using Artificial Intelligence to make everything better. Adaptive Battery and Adaptive Brightness use machine learning to increase battery life by dimming the screen when possible and keeping apps from running wild and free in the background, gestures and a single-button navigation system, app slices that bring the information you need front and center, and Digital Wellbeing so we can unwind and get away from our phones once in a while."
+</string>
+    <string name="info_10_0">"In March 2019 Google dropped the first Android Q beta on us, and this time there's a push for privacy and security.\n"  
+                "\n"  
+                "        \n"  
+                "        You can tell your phone to only allow location requests while an app is active, stop sending data about who you contact the most, protect your device ID and serial number and more inside Android Q, and that's just the beginning.\n"  
+                "\n"  
+                "        We also don't know what the Q stands for just yet, but we'll know more and get a name as we get closer to release."
+
+  </string>
+
+
+</resources>
